@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passagem de dados</string>
+    <string name="txt1">Digite seu nome: </string>
+    <string name="txt2">Olá, ! </string>
+</resources>
