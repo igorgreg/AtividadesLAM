@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo do tente adivinhar</string>
+    <string name="bt1">Vai</string>
+    <string name="maior">O número que vc digitou é maior</string>
+    <string name="menor">O número que vc digitou é menor</string>
+    <string name="acabou">Acabou suas tentativas o número era </string>
+</resources>
