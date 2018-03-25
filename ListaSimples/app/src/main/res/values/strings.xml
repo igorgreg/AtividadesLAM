@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista Simples</string>
+    <string name="lblFirst">Nome</string>
+    <string name="lblSecond">Aniversario</string>
+</resources>
