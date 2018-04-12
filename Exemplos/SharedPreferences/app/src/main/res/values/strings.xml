@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="lblButton">Salvar</string>
+    <string name="lblButton2">Carregar</string>
+</resources>
